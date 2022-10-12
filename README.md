@@ -1,16 +1,16 @@
 # Jeu du Feuille Papier Ciseaux 
 
-# Le jeu du pierre feuille ciseaux en python utilisant la console
+Le jeu du feuille papier ciseaux en python utilisant la console
 
-# + choix nombre manche
+ + choix nombre manche
 
-# + ajout score
+ + ajout score
 
-# + determine le gagnant
+ + determine le gagnant
 _________________________________________
 
-# But du jeu:
+ But du jeu:
 
-# Vous devez choisir entre trois "objets": Pierre, Feuille, Ciseaux. Vous jouer contre une ia. Ce jeu est un jeu aléatoire !
+ Vous devez choisir entre trois "objets": Pierre, Feuille, Ciseaux. Vous jouer contre une ia. Ce jeu est un jeu aléatoire !
 
-# A vous de jouer :) !
+ A vous de jouer :) !
